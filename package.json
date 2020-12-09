@@ -1,0 +1,16 @@
+{
+  "name": "workshop-3",
+  "version": "0.1.0",
+  "description": "node.js project eam",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "nd.js"
+  ],
+  "author": "Juan Esteban Barrero",
+  "license": "ISC"
+}
